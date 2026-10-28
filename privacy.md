@@ -139,4 +139,4 @@ The latest version will be published at ExtraStep's official Privacy Policy URL.
 
 Operator: Rayan Emanuel Gnuechwitz
 Email: support@erazable.com
-Discord support: [[Support server URL]](https://discord.gg/h2VvjZqkrw)
+Discord support: [Support server URL](https://discord.gg/h2VvjZqkrw)

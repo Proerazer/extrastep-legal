@@ -4,7 +4,7 @@ ExtraStep - Privacy Policy
 **Service:** ExtraStep  
 **Operator:** Rayan Emanuel Gnuechwitz, operating under Erazable  
 **Privacy contact:** support@erazable.com 
-**Support server:** [[Discord support server URL]](https://discord.gg/h2VvjZqkrw)
+**Support server:** [Discord support server URL](https://discord.gg/h2VvjZqkrw)
 
 1. Introduction
 
